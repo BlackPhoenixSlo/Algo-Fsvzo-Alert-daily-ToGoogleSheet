@@ -1,0 +1,16 @@
+{
+  "displayTPIValues": [
+    {
+      "displayName": "BTC % allocation",
+      "score": "-50.00%"
+    },
+    {
+      "displayName": "ETH % allocation",
+      "score": "-50.00%"
+    },
+    {
+      "displayName": "Net % percentage",
+      "score": "99.05%"
+    }
+  ]
+}
